@@ -1,18 +1,12 @@
-# Pivoterminal
+# PivoTerminal
 
-TODO: Write a gem description
+**I'm still working on a first usable version of this gem!**
+
+PivoTerminal is a gem that uses the Pivotal Tracker API give the same functionalities from the web interface to your terminal.
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'pivoterminal'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
+After installing Ruby 2.0.0 with RubyGems, execute:
 
     $ gem install pivoterminal
 

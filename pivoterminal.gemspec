@@ -8,10 +8,10 @@ Gem::Specification.new do |spec|
   spec.version       = Pivoterminal::VERSION
   spec.authors       = ["Rafael Reggiani Manzo"]
   spec.email         = ["rr.manzo@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
-  spec.license       = "MIT"
+  spec.description   = %q{PivoTerminal is a gem that uses the Pivotal Tracker API give the same functionalities from the web interface to your terminal.}
+  spec.summary       = %q{Pivotal Tracker integrated to your terminal}
+  spec.homepage      = "https://github.com/rafamanzo/pivoterminal"
+  spec.license       = "GPLv3"
 
   spec.files         = `git ls-files`.split($/)
   spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
